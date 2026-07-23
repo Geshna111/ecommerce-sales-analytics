@@ -144,7 +144,7 @@ This dashboard enables stakeholders to:
 
 ## Interactive Dashboard
 
-C:\Users\geshn\OneDrive\Projects\E-commerce Sales Analytics\powerbi\dashboard_filtered.png
+"C:\Users\geshn\OneDrive\Projects\E-commerce Sales Analytics\powerbi\dashboard_filtered.png"
 ---
 
 
