@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/9a522ccc-b6e5-4ca3-8755-7a7e02b74095" /># E-Commerce Sales Analytics Dashboard
+# E-Commerce Sales Analytics Dashboard
 
 Built an end-to-end business analytics solution by designing a relational PostgreSQL database, analyzing **100,000+ e-commerce orders** using SQL, and developing an interactive Power BI dashboard to generate actionable business insights for sales performance, customer behavior, and seller analysis.
 
@@ -140,8 +140,7 @@ This dashboard enables stakeholders to:
 
 ## Executive Dashboard
 
-C:\Users\geshn\OneDrive\Projects\E-commerce Sales Analytics\powerbi\dashboard.png
-
+<img src="https://github.com/user-attachments/assets/9a522ccc-b6e5-4ca3-8755-7a7e02b74095" width="500"/>
 
 ## Interactive Dashboard
 
